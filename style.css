@@ -39,7 +39,7 @@ header, section, aside, nav, footer {
 
 header, footer {
   border-top: 5px solid #a66;
-  border-bottom: 5px solid #a66;
+  border-bottom: 5px solid rgb(255, 0, 0);
 }
 
 /* WRITE YOUR CODE BELOW HERE */
